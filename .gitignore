@@ -1,0 +1,14 @@
+# R session state
+.RData
+.Rhistory
+.Rapp.history
+.Rproj.user/
+*.Rproj
+
+# Rendered output
+*.html
+*.docx
+*.pdf
+
+# OS
+.DS_Store
